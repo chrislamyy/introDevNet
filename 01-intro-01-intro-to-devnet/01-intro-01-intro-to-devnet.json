@@ -1,0 +1,26 @@
+{
+  "labId": "01-intro-01-intro-to-devnet",
+  "title": "Overview of DevNet",
+  "slug": "Learn about DevNet's features and get Partnering and Marketing resources. ",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"}
+  ],
+  "tags": [
+	{"title": "DevNet"}
+  ],
+  "related": [
+    {
+      "labId": "01-intro-02-overview-of-modules",
+	  "title": "Overview of Modules in This Track"
+    }
+  ],
+  "authors": [
+  	{"name": "DevNet", "email": "devnet@cisco.com"}
+  ],
+  "active": true
+}
